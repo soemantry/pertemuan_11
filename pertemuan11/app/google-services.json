@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "266619590015",
+    "project_id": "pertemuan11-77012",
+    "storage_bucket": "pertemuan11-77012.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266619590015:android:d2601fde02c1ae0c7b764a",
+        "android_client_info": {
+          "package_name": "com.example.fairbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266619590015-qk2lbi9j0prp5u91vs6m2pv076d0sacc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoHSfmvghzWDYtgTrwZzFHbN4ROgOQdeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266619590015-qk2lbi9j0prp5u91vs6m2pv076d0sacc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
